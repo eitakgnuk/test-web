@@ -11,10 +11,10 @@ export const TIMELINE: TimelineItem[] = [
 ];
 
 export const SKILLS: Skill[] = [
-  { name: 'Global Sourcing', icon: '🌐', level: 95, description: 'Direct partnerships with Tier-1 manufacturers worldwide.' },
-  { name: 'Thermal Engineering', icon: '❄️', level: 88, description: 'Liquid and immersion cooling systems for data infrastructure.' },
-  { name: 'Logistics Optimization', icon: '📦', level: 92, description: 'Dependable nationwide distribution and supply continuity.' },
-  { name: 'Hospitality Solutions', icon: '🛎️', level: 90, description: 'Product design and compliance for major hotel chains.' }
+  { name: 'gay', icon: '🌐', level: 95, description: 'Direct partnerships with Tier-1 manufacturers worldwide.' },
+  { name: 'ya gayatt', icon: '❄️', level: 88, description: 'Liquid and immersion cooling systems for data infrastructure.' },
+  { name: 'skibidi Optimization', icon: '📦', level: 92, description: 'Dependable nationwide distribution and supply continuity.' },
+  { name: 'ur mom', icon: '🛎️', level: 90, description: 'Product design and compliance for major hotel chains.' }
 ];
 
 export const BRANDS: Brand[] = [
